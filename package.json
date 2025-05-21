@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "htmx.org": "^1.9.12",
+    "hyperscript": "^2.0.2"
+  }
+}
